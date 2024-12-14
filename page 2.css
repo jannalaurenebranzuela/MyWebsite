@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f8d7da;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.intro-section {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.itro-image {
+  display: block;
+  max width: 150%;
+  height: auto%;
+  margin-top: 20px auto;
+  border-radius: 8px
+ 
+}
+
+.intro-section h1 {
+    font-size: 32px;
+    color: #2a9d8f;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.intro-section p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 15px 0;
+}
+
+strong {
+    color: #1d3557;
+}
+
+em {
+    color: #555;
+    font-style: italic;
+}
